@@ -1,0 +1,2 @@
+# pytorch_train_onlineshopping
+用上網的行為路徑，預測消費者是否購買
